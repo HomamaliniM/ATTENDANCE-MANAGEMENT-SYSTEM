@@ -1,0 +1,2 @@
+# ATTENDANCE-MANAGEMENT-SYSTEM
+Mini project
